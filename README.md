@@ -9,4 +9,7 @@
 1. Superman.
 2. Batman
 3. Hulk.
-4. El hombre araña negro.
+4. El-hombre-araña-negro.
+5. Spiderman
+6. Iron-man
+7. Capitan-latinoamerica
